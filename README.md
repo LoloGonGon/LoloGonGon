@@ -4,10 +4,13 @@
 **LoloGonGon/LoloGonGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Sobre mí:
-Hola, soy Alberto, estudiante de DAM en el centro San Viator de Valladolid.
+¡Hola!, soy Alberto, de Valladolid. 📍  
+Actualmente estoy cursando 1º de DAM en el centro San Viator. ✍  
+Paso gran parte del tiempo delante de la pantalla, 
+ya sea con videojuegos o estudiando mis asignaturas favoritas, Bases de Datos y Entornos de Desarrollo.
 
 
-Sintaxis de markdown
+
 
 # Título de primer nivel
 ## Título de segundo nivel

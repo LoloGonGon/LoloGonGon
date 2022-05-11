@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LoloGonGon/LoloGonGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -7,61 +5,18 @@
 ¡Hola!, soy Alberto, de Valladolid.  
 https://www.google.com/maps/place/Valladolid 📍  
   
-Actualmente estoy cursando 1º de DAM en el centro San Viator. ✍  
+Actualmente estoy cursando 1º de **DAM** en el centro **San Viator**. ✍  
   
-Paso gran parte del tiempo delante de la pantalla,  
-ya sea con videojuegos o estudiando mis asignaturas favoritas, Bases de Datos y Entornos de Desarrollo.  
+Paso gran parte del tiempo delante de la pantalla, ya sea con videojuegos 🎮  
+o estudiando mis asignaturas favoritas, Bases de Datos y Entornos de Desarrollo.  
 <img src="https://www.laguiadelvaron.com/wp-content/uploads/2020/12/chico-del-pulgar-arriba-trabaja-en-facebook-www.laguiadelvaron-1.gif"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-Una 
+     alt="Trabajando"
+     style="float: left; margin-right: 10px;" />  
 
+Otra de mis aficiones favoritas es el deporte,  
+especialmente el balonmano. 🤾‍  
 
-
-
-# Título de primer nivel
-## Título de segundo nivel
-### Título de tercer nivel
-#### Título de cuarto nivel
-##### Título de quinto nivel
-###### Título de sexto nivel
-
-Esto es una línea.  
-Esto es otra línea justo a continuación.
-
-Esta es la tercera línea y tiene más espacio.
-
-
-Texto **en negrita**
-
-Texto *en cursiva*
-
-Negrita y cursiva se hace como la combinación de ambas.
-
-> Citas así
-Listas:
-
-1. Listas ordenadas
-    1. Primer
-    1. Segundo
-    1. Tercero
-3. Listas desordenadas
-  - Primer
-  - Segundo
-  - Tercero
-  + Cuarto
-  * Quinto
-
-
-Utilizar `código`
-
-
-Líneas horizontales
-*** 
----
-_________________________
-
-
-Enlaces
-<www.sanviatorvalladolid.com>
-<miguel.rojo@sanviatorvalladolid.com>
+**Titulación previa**:
+* Técnico Superior en Automatización y Robótica Industrial.  
+  
+Enlace a mi [**LinkedIn**](https://www.linkedin.com/in/alberto-gonz%C3%A1lez-gonz%C3%A1lez-b8a4a0216/).

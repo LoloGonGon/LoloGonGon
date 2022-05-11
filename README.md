@@ -20,3 +20,5 @@ especialmente el balonmano. 🤾‍
 * Técnico Superior en Automatización y Robótica Industrial.  
   
 Enlace a mi [**LinkedIn**](https://www.linkedin.com/in/alberto-gonz%C3%A1lez-gonz%C3%A1lez-b8a4a0216/).
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoloGonGon&show_icons=true&theme=radical)](https://github.com/LoloGonGon/github-readme-stats)

@@ -8,7 +8,7 @@ https://www.google.com/maps/place/Valladolid 📍
 Actualmente estoy cursando 1º de **DAM** en el centro **San Viator**. ✍  
   
 Paso gran parte del tiempo delante de la pantalla, ya sea con videojuegos 🎮  
-o estudiando mis asignaturas favoritas, *Programación de servicios y procesos*, *Programación multimedia y dispositivos móviles* y **Acceso a Datos**.  
+o estudiando mis asignaturas favoritas, **Programación de servicios y procesos**, **Programación multimedia y dispositivos móviles** y **Acceso a Datos**.  
 <img src="https://www.laguiadelvaron.com/wp-content/uploads/2020/12/chico-del-pulgar-arriba-trabaja-en-facebook-www.laguiadelvaron-1.gif"
      alt="Trabajando"
      style="float: left; margin-right: 10px;" />  
